@@ -1,4 +1,4 @@
-<!doctype html>
+  <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -142,9 +142,9 @@
               <div class="card">
                 <div class="card-body">
                   <img src="./images/image.png"   alt="...">  
-                  <h5 class="card-title">Mesjid Raya</h5>
-                  <p class="card-text">Jl.Baipas</p>
-                  <a href="#" class="btn btn-primary">Lihat</a>
+                  <h5 class="card-title">Masjid Raya Padang</h5>
+                  <p class="card-text">Jl.byPass</p>
+                  <a href="https://id.wikipedia.org/wiki/Masjid_Raya_Sumatera_Barat" class="btn btn-primary">Lihat</a>
                   
                 </div>
               </div>
@@ -153,9 +153,9 @@
               <div class="card">
                 <div class="card-body">
                   <img src="./images/image.png" alt="....">
-                  <h5 class="card-title">Mesjid Annur</h5>
+                  <h5 class="card-title">Mesjid An-nur</h5>
                   <p class="card-text">Jl.Simpang Piai</p>
-                  <a href="#" class="btn btn-primary">Lihat</a>
+                  <a href="https://id.wikipedia.org/wiki/Masjid_An-Nur_Pekanbaru" class="btn btn-primary">Lihat</a>
                 </div>
               </div>
             </div>
@@ -163,9 +163,9 @@
               <div class="card">
                 <div class="card-body">
                   <img src="./images/image.png" alt="....">
-                  <h5 class="card-title">Mesjid Annur</h5>
-                  <p class="card-text">Jl.Simpang Piai</p>
-                  <a href="#" class="btn btn-primary">Lihat</a>
+                  <h5 class="card-title">Mesjid al-hakim</h5>
+                  <p class="card-text">Jl. Samudera</p>
+                  <a href="https://id.wikipedia.org/wiki/Masjid_Al-Hakim_Padang" class="btn btn-primary">Lihat</a>
                 </div>
               </div>
             </div>
@@ -193,10 +193,10 @@
                       <img src="./images/image.png" style="width: 25px; height: auto;" class="img-fluid" alt="....">
                     </div>
                     <div class="col">
-                      <h6 class="mb-0">Masjid al-azhar</h6>
+                      <h6 class="mb-0">Masjid Raya Padang</h6>
                     </div>
                     <div class="col-auto">
-                      <a href="#" class="btn btn-link"><i class="bi bi-arrow-right-circle"></i></a>
+                      <a href="https://www.google.com/maps/dir//39G6%2B7R7+Masjid+Raya+Syekh+Ahmad+Khatib+Al+Minangkabawi+Sumatera+Barat,+Jl.+Khatib+Sulaiman,+Alai+Parak+Kopi,+Kec.+Padang+Utara,+Kota+Padang,+Sumatera+Barat+25173/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2fd4b8d98d2319f3:0xebfa8823349070d3?sa=X&ved=1t:57443&ictx=111" class="btn btn-link"><i class="bi bi-arrow-right-circle"></i></a>
                     </div>
                   </div>
                 </th>
@@ -211,10 +211,10 @@
                       <img src="./images/image.png" style="width: 25px; height: auto;" class="img-fluid" alt="....">
                     </div>
                     <div class="col">
-                      <h6 class="mb-0">Masjid raya padang </h6>
+                      <h6 class="mb-0">Masjid an-nur </h6>
                     </div>
                     <div class="col-auto">
-                      <a href="#" class="btn btn-link"><i class="bi bi-arrow-right-circle"></i></a>
+                      <a href="https://www.google.com/maps/dir//MASJID+AN+NUR,+pengabdian+padang+lekat,+Jl.+Jati,+Jati,+Kec.+Padang+Tim.,+Kota+Padang,+Sumatera+Barat+25129/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2fd4b9aa2acc54a9:0xe8d12d134c1b664c?sa=X&ved=1t:57443&ictx=111" class="btn btn-link"><i class="bi bi-arrow-right-circle"></i></a>
                     </div>
                   </div>
                 </th>
@@ -229,10 +229,10 @@
                       <img src="./images/image.png" style="width: 25px; height: auto;" class="img-fluid" alt="....">
                     </div>
                     <div class="col">
-                      <h6 class="mb-0">Masjid al-ilmi wal-ilmu </h6>
+                      <h6 class="mb-0">Masjid al-hakim </h6>
                     </div>
                     <div class="col-auto">
-                      <a href="#" class="btn btn-link"><i class="bi bi-arrow-right-circle"></i></a>
+                      <a href="https://www.google.com/maps/dir//Masjid+Al-Hakim+Padang,+Jl.+Samudera,+Berok+Nipah,+Kec.+Padang+Bar.,+Kota+Padang,+Sumatera+Barat/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2fd4b8a57719829d:0x6716a574833af7c0?sa=X&ved=1t:57443&ictx=111" class="btn btn-link"><i class="bi bi-arrow-right-circle"></i></a>
                     </div>
                   </div>
                 </th>
@@ -255,8 +255,8 @@
                 <div class="card">
                   <div class="card-body bg-primary text-white d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
                     <i class="bi bi-person-fill fs-2 mb-3"></i>
-                    <p class="card-text mb-3" style="font-size: 1.25rem;">Nama</p>
-                    <p class="card-text mb-3" style="font-size: 1.25rem;">Total</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">Abraham Alexi Pratama</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">531</p>
                   </div>
                 </div>
               </div>
@@ -265,8 +265,8 @@
                 <div class="card">
                   <div class="card-body bg-primary text-white d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
                     <i class="bi bi-person-fill fs-2 mb-3"></i>
-                    <p class="card-text mb-3" style="font-size: 1.25rem;">Nama</p>
-                    <p class="card-text mb-3" style="font-size: 1.25rem;">Total</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">Muhammad Khairul </p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">421</p>
                   </div>
                 </div>
               </div>
@@ -275,33 +275,123 @@
                 <div class="card">
                   <div class="card-body bg-primary text-white d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
                     <i class="bi bi-person-fill fs-2  mb-3"></i>
-                    <p class="card-text mb-3" style="font-size: 1.25rem;">Nama</p>
-                    <p class="card-text mb-3" style="font-size: 1.25rem;">Total</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">Ihsan Nur Wahid</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">389</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          
-          
-          
-
         </div>
-        <div id="item-2">
-          <h4>Item 2</h4>
-          <p>...</p>
+        <div id="item-2" class="my-2">
+          <div class="card text-center bg-info-subtle text-black ">
+            <div class="card-body">
+              Peserta terbaik dari masjid an-nur
+            </div>
+          </div>
+          <div class="container mt-2">
+          <div class="row">
+            <!-- Kolom Kiri -->
+            <div class="col-md-8">
+              <div class="card h-100">
+                <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                  <i class="bi bi-person-fill fs-2 mb-4"></i>
+                  <p class="card-text mb-3" style="font-size: 1.25rem;">Jami Rahmad</p>
+                  <p class="card-text mb-3" style="font-size: 1.25rem;">351</p>
+                </div>
+              </div>
+            </div>
+            <!-- Kolom Kanan -->
+            <div class="col-md-4 d-flex flex-column">
+              <!-- Tabel 1 -->
+              <div class="mb-2 flex-fill">
+                <div class="card custom-height">
+                  <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                    <i class="bi bi-person-fill fs-2 mb-3"></i>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">M. Isya Daud</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">302</p>
+                  </div>
+                </div>
+              </div>
+              <!-- Tabel 2 -->
+              <div class="mb-2 flex-fill">
+                <div class="card custom-height">
+                  <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                    <i class="bi bi-person-fill fs-2 mb-3"></i>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">Abdurrahman Ash </p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">293</p>
+                  </div>
+                </div>
+              </div>
+              <!-- Tabel 3 -->
+              <div class="mb-2 flex-fill">
+                <div class="card custom-height">
+                  <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                    <i class="bi bi-person-fill fs-2 mb-3"></i>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">Saif Hamsil</p>
+                    <p class="card-text mb-3" style="font-size: 1.25rem;">245</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         </div>
         <div id="item-3">
-          <h4>Item 3</h4>
-          <p>...</p>
+          <div id="item-2" class="my-2">
+            <div class="card text-center bg-info-subtle text-black ">
+                <div class="card-body">
+                    Peserta terbaik dari masjid al-hakim
+                </div>
+            </div>
+            <div class="container mt-2">
+                <div class="row">
+                    <!-- Kolom Kanan -->
+                    <div class="col-md-8 order-md-2">
+                        <div class="card h-100">
+                            <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                                <i class="bi bi-person-fill fs-2 mb-4"></i>
+                                <p class="card-text mb-3" style="font-size: 1.25rem;">Nurvina Putri</p>
+                                <p class="card-text mb-3" style="font-size: 1.25rem;">231</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Kolom Kiri -->
+                    <div class="col-md-4 d-flex flex-column order-md-1">
+                        <!-- Tabel 1 -->
+                        <div class="mb-2 flex-fill">
+                            <div class="card custom-height">
+                                <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                                    <i class="bi bi-person-fill fs-2 mb-3"></i>
+                                    <p class="card-text mb-3" style="font-size: 1.25rem;">Delpira Afri </p>
+                                    <p class="card-text mb-3" style="font-size: 1.25rem;">172</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Tabel 2 -->
+                        <div class="mb-2 flex-fill">
+                            <div class="card custom-height">
+                                <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                                    <i class="bi bi-person-fill fs-2 mb-3"></i>
+                                    <p class="card-text mb-3" style="font-size: 1.25rem;">Muhammad Alghifary </p>
+                                    <p class="card-text mb-3" style="font-size: 1.25rem;">160</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Tabel 3 -->
+                        <div class="mb-2 flex-fill">
+                            <div class="card custom-height">
+                                <div class="card-body bg-info-subtle text-black d-flex flex-column align-items-center justify-content-center rounded-4 p-4">
+                                    <i class="bi bi-person-fill fs-2 mb-3"></i>
+                                    <p class="card-text mb-3" style="font-size: 1.25rem;">Sona Lestari</p>
+                                    <p class="card-text mb-3" style="font-size: 1.25rem;">154</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div id="item-3-1">
-          <h5>Item 3-1</h5>
-          <p>...</p>
-        </div>
-        <div id="item-3-2">
-          <h5>Item 3-2</h5>
-          <p>...</p>
         </div>
       </div>
     </div>
